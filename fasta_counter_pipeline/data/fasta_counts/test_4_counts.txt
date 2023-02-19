@@ -1,0 +1,1 @@
+/home/kai/nextflow/fasta_counter_pipeline/work/73/6c1d863a05c984b83433fe083be972/test_4_counts.txt

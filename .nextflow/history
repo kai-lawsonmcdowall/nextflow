@@ -1,0 +1,38 @@
+2023-02-12 22:40:26	2.3s	grave_mirzakhani	OK	652dc0656c6a79fe712d2b67df1bfc9b	d8d97281-62b2-4f40-80aa-d7da8b614a5b	nextflow run /home/kai/nextflow/scripts/basic_pipeline.nf
+2023-02-12 22:42:26	2.1s	naughty_brenner	ERR	7c3235f994bd465cdac0280784509bec	f7ad4b55-f11f-4f94-a971-459952b746ff	nextflow run /home/kai/nextflow/scripts/basic_pipeline.nf
+2023-02-12 22:42:42	2.6s	exotic_church	OK	2fa032ebcbfda077d4f0b7f2e7074ad3	63f8dd54-b5e6-4527-9c5c-4e4554f9d918	nextflow run /home/kai/nextflow/scripts/basic_pipeline.nf
+2023-02-12 22:50:14	-	amazing_nobel	-	10fbc0e6003e8ba4b4566621816cf94f	c5c5df64-db97-4740-aa2a-4ab514b76978	nextflow run /home/kai/nextflow/scripts/basic_pipeline.nf
+2023-02-12 22:50:41	-	intergalactic_archimedes	-	e35259fbb62d5cbe58dcf118ef5366d6	bff3642d-8525-4e55-88e5-205684c8298d	nextflow run /home/kai/nextflow/scripts/basic_pipeline.nf
+2023-02-12 22:51:44	-	grave_poincare	-	e35259fbb62d5cbe58dcf118ef5366d6	2245d7d4-cc1e-431d-b84c-434c4f0236a3	nextflow run /home/kai/nextflow/scripts/basic_pipeline.nf
+2023-02-12 22:52:07	2.7s	silly_cori	ERR	b68f81fad2b564bc29b994a8742eb4a8	b566d0e5-100f-44c2-970e-f1d059c6dd9c	nextflow run /home/kai/nextflow/scripts/basic_pipeline.nf
+2023-02-12 22:52:31	2.5s	stoic_cuvier	OK	9e0e4f9c1879ebd5be9414ee077a3099	5b8eadd5-a382-41e7-9fd4-3d3789feb4b7	nextflow run /home/kai/nextflow/scripts/basic_pipeline.nf
+2023-02-12 22:52:51	2.6s	exotic_goodall	OK	9e0e4f9c1879ebd5be9414ee077a3099	97b2fbaf-c791-4061-be3d-695d9d2c1d32	nextflow run /home/kai/nextflow/scripts/basic_pipeline.nf
+2023-02-12 22:54:24	-	maniac_carlsson	-	d24c39cc0728684dc73bb567a761af46	fbfbc43c-5576-488f-8e62-ed00247e1278	nextflow run /home/kai/nextflow/scripts/basic_pipeline.nf
+2023-02-12 22:59:25	-	cheeky_darwin	-	097549c6139aab1f1780d8d08cca226a	3af768a5-c6ef-4cf7-a0c8-babaa0a247f3	nextflow run /home/kai/nextflow/scripts/basic_pipeline.nf
+2023-02-12 22:59:50	-	marvelous_allen	-	5509685e2402144cec7f55e3d5ad5cae	7da5b285-52ab-4e3e-8c4e-5b76bd5f59f9	nextflow run /home/kai/nextflow/scripts/basic_pipeline.nf
+2023-02-12 23:00:14	2.4s	cheeky_moriondo	OK	22f2f3415e44cc50c51ab346e7640672	6dce5663-fc2c-4cd3-9457-6df506e0a3d4	nextflow run /home/kai/nextflow/scripts/basic_pipeline.nf
+2023-02-12 23:01:09	2.6s	disturbed_caravaggio	ERR	e539ae7e6e44761aa69f9a78da9ed761	65edb53c-6a17-49f6-ab3d-191bd09d34ec	nextflow run /home/kai/nextflow/scripts/basic_pipeline.nf
+2023-02-12 23:01:22	2.1s	zen_hilbert	OK	107bd45c2daaaaed18085eb3a5b6796d	14b72eff-d394-4d45-8c91-31753ccc8913	nextflow run /home/kai/nextflow/scripts/basic_pipeline.nf
+2023-02-12 23:01:45	2.3s	clever_rosalind	OK	a31723f65b3ca2cc0a339d67efb4bd9f	9c99728a-126c-4952-9082-97c19294ebf8	nextflow run /home/kai/nextflow/scripts/basic_pipeline.nf
+2023-02-12 23:02:47	2.4s	lonely_wiles	OK	ba192fde4d713f6c069e7d5780410b2a	9ef7214f-c143-482b-9e16-ef325b22f62e	nextflow run /home/kai/nextflow/scripts/basic_pipeline.nf
+2023-02-12 23:03:30	2.6s	berserk_brattain	OK	4eb41cc90811e869572e12e03afffe69	edb2ccdb-b40a-4b78-87d2-0d08fb440063	nextflow run /home/kai/nextflow/scripts/basic_pipeline.nf
+2023-02-12 23:05:45	-	ecstatic_baekeland	-	c0bd89c64989e0b4ca98a1dc41b8c2f1	243677d3-c531-4952-a50f-5d62bd349429	nextflow run /home/kai/nextflow/scripts/basic_pipeline.nf
+2023-02-12 23:06:00	2.7s	stoic_mahavira	ERR	e3d6e3bd626e1190df531ddf770051fa	0fc3eb3c-8cbf-4533-8183-706da84a0ec4	nextflow run /home/kai/nextflow/scripts/basic_pipeline.nf
+2023-02-12 23:06:20	2.6s	evil_almeida	ERR	7b77ed2a5d7c2893db281452cae8abb0	3f6eeccb-9b01-4d39-9e44-8dc94e27a5eb	nextflow run /home/kai/nextflow/scripts/basic_pipeline.nf
+2023-02-12 23:07:19	2.9s	serene_lovelace	ERR	5928d37943d277ec1ba372c21a1e3854	10d2dd9d-714e-459a-8871-ba3deceb03fb	nextflow run /home/kai/nextflow/scripts/basic_pipeline.nf
+2023-02-12 23:07:35	2.4s	curious_roentgen	ERR	c41a48bb65ba5c97be00fe213a920c37	9cf64350-5c6f-4bcc-8daf-ea5aef4ab7e8	nextflow run /home/kai/nextflow/scripts/basic_pipeline.nf
+2023-02-12 23:08:28	2.8s	voluminous_moriondo	ERR	c41a48bb65ba5c97be00fe213a920c37	81ad493a-2b5e-4bf8-b131-590802a70a85	nextflow run /home/kai/nextflow/scripts/basic_pipeline.nf
+2023-02-12 23:09:41	2.3s	grave_coulomb	ERR	b3f146b28f3d6237bc3217cf9e2f5e26	831e8975-c1cf-4ba6-9fca-9dbcecfe5562	nextflow run /home/kai/nextflow/scripts/basic_pipeline.nf
+2023-02-12 23:10:20	-	mighty_jennings	-	2b5f83e3ebcadc6fa370810c6165db1b	b2c643d7-87c2-491c-9380-f43dda10ac1f	nextflow run /home/kai/nextflow/scripts/basic_pipeline.nf
+2023-02-12 23:10:34	2.2s	intergalactic_mestorf	OK	215a5fbbef998af4fd8d99c68988daa0	c9d8b875-85e0-4d81-9cdc-c56fb00818ba	nextflow run /home/kai/nextflow/scripts/basic_pipeline.nf
+2023-02-12 23:11:38	3.5s	big_goodall	OK	0edae50f765196b5d1c0f233d37859e5	29288a9e-929e-4f34-aac2-4dc442069a14	nextflow run /home/kai/nextflow/scripts/basic_pipeline.nf
+2023-02-12 23:12:37	2.6s	gloomy_tesla	ERR	d3eec1ae76baaec8bd23da41846f56f4	57e0d66c-e5b8-4dec-aa6c-4c3fea253936	nextflow run /home/kai/nextflow/scripts/basic_pipeline.nf
+2023-02-12 23:14:03	3s	extravagant_monod	ERR	c20bcb764d5f6d58b6088541bf7739a3	97433e32-37bd-4240-9b42-13c63c85f89f	nextflow run /home/kai/nextflow/scripts/basic_pipeline.nf
+2023-02-12 23:14:20	2.2s	thirsty_bartik	OK	0edae50f765196b5d1c0f233d37859e5	27a6cc53-3baf-4f74-918c-fdc6242f2a18	nextflow run /home/kai/nextflow/scripts/basic_pipeline.nf
+2023-02-12 23:15:23	2.3s	friendly_dijkstra	OK	609db4f77583965766134ec4a12f06b7	2a800226-0bee-43e6-9809-2eb971fef274	nextflow run /home/kai/nextflow/scripts/basic_pipeline.nf
+2023-02-12 23:18:00	2.2s	curious_poincare	OK	609db4f77583965766134ec4a12f06b7	4975b130-39f6-467b-9fec-e7c2aaebcd75	nextflow run /home/kai/nextflow/scripts/basic_pipeline.nf --outdir /home/kai/nextflow/data
+2023-02-15 21:37:23	2.6s	fabulous_hilbert	ERR	c7e4282e26bddfedbfb547eb3784dd8f5a3809ae	e1704e8a-6090-4f67-8d82-d0ef9fbe1638	nextflow run blast-example -with-docker
+2023-02-15 21:49:05	1m 22s	chaotic_solvay	ERR	c7e4282e26bddfedbfb547eb3784dd8f5a3809ae	03430c13-a595-43c9-8502-22d8710e0ace	nextflow run blast-example -with-docker
+2023-02-15 21:51:11	3.1s	reverent_ramanujan	ERR	c7e4282e26bddfedbfb547eb3784dd8f5a3809ae	fa4c9736-5516-490b-870f-8af4e7d4977d	nextflow run blast-example -with-docker
+2023-02-15 22:02:20	3.1s	amazing_pike	ERR	c7e4282e26bddfedbfb547eb3784dd8f5a3809ae	9587cafd-1262-4675-8ea1-4e0de3d00887	nextflow run blast-example -with-docker
+2023-02-15 22:03:45	3.1s	mighty_leavitt	ERR	c7e4282e26bddfedbfb547eb3784dd8f5a3809ae	c7f6bad5-c76f-4d95-89e5-e00d9ed66c0a	nextflow run blast-example -with-docker

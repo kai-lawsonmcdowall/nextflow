@@ -19,5 +19,5 @@ def fasta_file_generator(path_to_file:str, length:int=25, number_of_entries:int 
     f.close()
 
 #%%
-fasta_file_generator("/home/kai/nextflow/data/test.fasta", number_of_entries=10)
+fasta_file_generator("/home/kai/nextflow/data/test_4.fasta", number_of_entries=10)
 #%%
